@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me 
-I am learning Java. I really like this language. computer science is a miracle. Seriously, computer can read 1 or 0 and save 1 or 0 only. That's magic.
+
+//TODO Write sth here
